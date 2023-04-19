@@ -4,7 +4,7 @@ IntaClone Backend.
 
 ## User:
 
-- [ ] Create Account
+- [✅] Create Account
 - [ ] See Profile
 - [ ] Login
 - [ ] Edit Profile
